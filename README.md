@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+# Sample Heading Text
+## Sample Heading Text
+###### Sample Heading Text
 <!--
 **Kilex79/Kilex79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
