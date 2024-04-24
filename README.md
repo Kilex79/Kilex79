@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **Kilex79/Kilex79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +12,59 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# ¡Hola, soy Hikari Kilex! 👋
+
+![Hikari Kilex]([url_de_la_imagen](https://i.pinimg.com/originals/21/41/5a/21415a55fa22227fae95dab29e21ed16.jpg))
+
+## ¡Bienvenido a mi Proyecto!
+
+¡Gracias por visitar mi repositorio! Aquí encontrarás [Nombre del Proyecto], una emocionante aventura en el mundo de la programación.
+
+## ¿Qué es [Nombre del Proyecto]?
+
+[Nombre del Proyecto] es un proyecto [breve descripción del proyecto]. ¡Únete y sé parte de esta emocionante experiencia!
+
+## Estado del Proyecto
+
+Actualmente, [Nombre del Proyecto] está [estado del proyecto]. ¡Pero siempre hay espacio para nuevas ideas y mejoras!
+
+## Instalación
+
+¡Es fácil comenzar! Simplemente sigue estas simples instrucciones de instalación:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⠙⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠀⠀⠀⡞⢹⠀⠹⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
