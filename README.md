@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# ¡Hola, soy Hikari Kilex! 👋
+⛩¡Hola, soy Hikari Kilex!⛩ 👋
 
 ![Hikari Kilex]([url_de_la_imagen](https://i.pinimg.com/originals/21/41/5a/21415a55fa22227fae95dab29e21ed16.jpg))
 
