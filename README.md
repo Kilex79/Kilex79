@@ -18,21 +18,21 @@ Here are some ideas to get you started:
 
 ![Hikari Kilex]([url_de_la_imagen](https://i.pinimg.com/originals/21/41/5a/21415a55fa22227fae95dab29e21ed16.jpg))
 
-## ¡Bienvenido a mi Proyecto!
+## ¡Bienvenido a Perfil!
 
-¡Gracias por visitar mi repositorio! Aquí encontrarás [Nombre del Proyecto], una emocionante aventura en el mundo de la programación.
+¡Gracias por visitar mi Perfil! Aquí encontrarás diversos proyectos en los que voy trabajando, una emocionante aventura en el mundo de la programación.
 
-## ¿Qué es [Nombre del Proyecto]?
+## ¿Qué suelo usar para programar?
 
-[Nombre del Proyecto] es un proyecto [breve descripción del proyecto]. ¡Únete y sé parte de esta emocionante experiencia!
+Generalmente uso Visual Studio Code con varios plugins instalados. También utilizo IntellIj IDEA.
 
-## Estado del Proyecto
+## Lenguajes de programación
 
-Actualmente, [Nombre del Proyecto] está [estado del proyecto]. ¡Pero siempre hay espacio para nuevas ideas y mejoras!
+Actualmente, estoy trabajando con Java, XML, React, NextJs, JS y HTML. ¡Pero siempre hay espacio para nuevos lenguajes y mejorar!
 
-## Instalación
+## Estado
 
-¡Es fácil comenzar! Simplemente sigue estas simples instrucciones de instalación:
+Actualmente estoy en estado de aprendizaje.
 
 
 
