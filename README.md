@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 
 # ⛩¡Hola, soy Hikari Kilex!⛩ 👋
 
-![Hikari Kilex]([url_de_la_imagen](https://i.pinimg.com/originals/21/41/5a/21415a55fa22227fae95dab29e21ed16.jpg))
+## ¡Bienvenido a mi Perfil!
 
-## ¡Bienvenido a Perfil!
-
-¡Gracias por visitar mi Perfil! Aquí encontrarás diversos proyectos en los que voy trabajando, una emocionante aventura en el mundo de la programación.
+¡Gracias por visitar mi Perfil! Aquí encontrarás diversos proyectos en los que voy trabajando.
 
 ## ¿Qué suelo usar para programar?
 
-Generalmente uso Visual Studio Code con varios plugins instalados. También utilizo IntellIj IDEA.
+Generalmente uso Visual Studio Code con varias extensionaes instaladas. También utilizo IntellIj IDEA.
 
 ## Lenguajes de programación
 
