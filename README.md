@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# ⛩¡Hola, soy Hikari Ismael!⛩ 👋
+# ⛩¡Hola, soy Ismael!⛩ 👋
 
 ## ¡Bienvenido a mi Perfil!
 
